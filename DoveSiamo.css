@@ -1,41 +1,30 @@
-.google-maps {
-  position: relative;
-  padding-bottom: 75%; // Definisco l'aspect ratio
-   width: 100%;  
-  height: 40% !important;
-}
+
 iframe {
-  position: absolute;
-  margin: 10px auto 10px auto;
-  width: 50%;
-  height: 36%;
-  top: 9%;
-  left: 25%;
+
+  margin: 20px 25%  20px 25% ; 
+  height: 420px;
+  width: 700px;
   
 }
-#titolo {
- color: green;
-position: absolute;
-  top: 22%;
-  left: 37%;
+#titolo{
+  color: green;
+  text-align: center;
+  margin: 10px 25%  1px 25% ; 
 }
 
 #indirizzo {
 color: green;
 position: absolute;
-  top: 120%;
-  left: 68%;
+  margin: 28px 66%;
 
 }
 
 #dettagli {
 position: absolute;
-  top:124% ;
-  left:68% ;
+   margin: 55px 66%;
 }
 
 #foto {
  position: absolute;
- top:121%;
- left:53%;
+ margin: 0px 50%; 
 }
