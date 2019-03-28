@@ -1,0 +1,63 @@
+
+#titolo {
+ color: green;
+position: absolute;
+  top: 22%;
+  left: 37%;
+}
+
+#foto {
+position: absolute;
+ margin-top: 150px;
+  margin-bottom: 150px;
+  margin-right: 10px;
+  margin-left: 5px;
+}
+
+#descrizione {
+position: absolute;
+  margin-top: 150px;
+  margin-bottom: 150px;
+  margin-right: 10px;
+  margin-left: 580px;
+}
+
+#descrizioneprodotto {
+position: absolute;
+margin-top: 195px;
+    margin-bottom: 150px;
+    margin-right: 10px;
+    margin-left: 580px;
+font-family: "Times New Roman", Times, serif;
+font-size: 74%;
+}
+
+#foto1 {
+position: absolute;
+ margin-top: 490px;
+  margin-bottom: 150px;
+  margin-right: 10px;
+  margin-left: 5px;
+}
+#descrizione1 {
+position: absolute;
+  margin-top: 490px;
+  margin-bottom: 150px;
+  margin-right: 10px;
+  margin-left: 580px;
+}
+
+#descrizioneprodotto1 {
+position: absolute;
+margin-top: 520px;
+    margin-bottom: 150px;
+    margin-right: 10px;
+    margin-left: 580px;
+font-family: "Times New Roman", Times, serif;
+font-size: 74%;
+}
+
+
+body{
+height:fit-content;
+}
