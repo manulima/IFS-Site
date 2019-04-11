@@ -1,0 +1,43 @@
+#titolo {
+ color: green;
+  top: 22%;
+  left: 37%;
+ text-align: center;
+}
+
+#descrizioneprodotto {
+font-family: "Times New Roman", Times, serif;
+font-size: 74%;
+}
+
+#descrizioneprodotto1 {
+font-family: "Times New Roman", Times, serif;
+font-size: 74%;
+}
+
+
+body {
+  margin: 0;
+}
+
+.column {
+  float: left;
+  width: 50%;
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+@media screen and (max-width: 1050px) {
+  .column {
+    width: 100%;
+  }
+}
+
+.responsive {
+  max-width: 100%;
+  height: auto;
+}
